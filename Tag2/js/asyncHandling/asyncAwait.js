@@ -61,4 +61,3 @@ async function init(){
 
 init()
 console.log("hinter init")
-

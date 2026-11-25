@@ -16,3 +16,18 @@ https://jsonplaceholder.typicode.com/posts
 #BoxShadow css
 https://getcssscan.com/css-box-shadow-examples
 
+#ejs node js template
+https://ejs.co/docs/
+
+#nodeJS
+https://nodejs.org/en
+
+#vite guide
+https://vite.dev/guide/
+
+#expressjs für routing
+https://expressjs.com/en/5x/guide
+https://expressjs.com/en/5x/guide/using-middleware/
+
+#zod validierung
+https://zod.dev/
