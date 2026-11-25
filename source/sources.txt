@@ -9,3 +9,10 @@ https://www.w3schools.com/js/default.asp
 
 #DOM in MDN
 https://developer.mozilla.org/de/docs/Web/API/Document
+
+#JSON placeholder
+https://jsonplaceholder.typicode.com/posts
+
+#BoxShadow css
+https://getcssscan.com/css-box-shadow-examples
+
